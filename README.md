@@ -20,8 +20,10 @@ Source code for RT5572 device
 
 ## Guild:
 * Modify this file to match your case:
-```./raspi/cross_compile.sh 
+```
+./raspi/cross_compile.sh 
 ```
 * And run:
-```./raspi/cross_compile.sh 5572 arg1 arg2
+```
+./raspi/cross_compile.sh 5572 arg1 arg2
 ```
