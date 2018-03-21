@@ -18,7 +18,7 @@ Source code for RT5572 device
 * STA Mode is passed.
 * AP Mode is passed.
 
-## Guild:
+## Guide:
 * Modify this file to match your case:
 ```
 ./raspi/cross_compile.sh 
