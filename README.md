@@ -14,11 +14,14 @@ Source code for RT5572 device
 
 ## On Raspberry Pi 3 kernel version: 4.4.50
 * Native build is ok.
+* Cross build do not test.
 * STA Mode is passed.
 * AP Mode is passed.
 
 ## Guild:
 * Modify this file to match your case:
 ```./raspi/cross_compile.sh 
-* And run ./raspi/cross_compile.sh 5572 arg1 arg2
-
+```
+* And run:
+```./raspi/cross_compile.sh 5572 arg1 arg2
+```
