@@ -18,6 +18,12 @@ Source code for RT5572 device
 * STA Mode is passed.
 * AP Mode is passed.
 
+## On Rock64
+* Native build is ok. (maybe need build kernel for rock64 first)
+* Cross build do not test.
+* STA Mode do not test.
+* AP Mode do not test.
+
 ## Guide:
 * Modify this file to match your case:
 ```
